@@ -1,0 +1,6 @@
+outs:
+- md5: d8a76b7163e0775e4eb0c00da2e978b9.dir
+  size: 6220312
+  nfiles: 1
+  hash: md5
+  path: lib

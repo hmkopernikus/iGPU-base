@@ -1,0 +1,6 @@
+outs:
+- md5: b9b7f75828c6bb201a74ac564fa3f997.dir
+  size: 9821917
+  nfiles: 1064
+  hash: md5
+  path: qa

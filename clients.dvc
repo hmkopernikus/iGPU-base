@@ -1,0 +1,6 @@
+outs:
+- md5: d229ab50c31ecdb7e279d252910da4ea.dir
+  size: 357411507
+  nfiles: 946
+  hash: md5
+  path: clients

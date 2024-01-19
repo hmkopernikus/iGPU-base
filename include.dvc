@@ -1,0 +1,6 @@
+outs:
+- md5: d6b64cafa72151563151e8a4351203a9.dir
+  size: 193048
+  nfiles: 3
+  hash: md5
+  path: include
